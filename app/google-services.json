@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883588012826",
+    "firebase_url": "https://insert-data-with-firebase-default-rtdb.firebaseio.com",
+    "project_id": "insert-data-with-firebase",
+    "storage_bucket": "insert-data-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883588012826:android:2d5a72daecac7132cd2aa3",
+        "android_client_info": {
+          "package_name": "com.nency.insertwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883588012826-bjjm3a4k49qilmsqo718vua8dmug2kii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDhmxFzi_3ylD0kdUFXq2YLzfyS30eVTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883588012826-bjjm3a4k49qilmsqo718vua8dmug2kii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
